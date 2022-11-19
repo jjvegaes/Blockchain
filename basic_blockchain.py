@@ -1,6 +1,6 @@
 # Create a Blockchain class
 # To be installed:
-# It may raise an error when using last version libraries, it works fine with Flask==0.12.2: pip install Flask==0.12.2
+# It may raise an error when using last version libraries, if yes, try older version of flask and requests
 # Postman HTTP Client: https://www.getpostman.com/
 
 # Importing the libraries
